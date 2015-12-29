@@ -12,7 +12,7 @@ var {
   View,
 } = React;
 
-var WatchManager = require('./WatchManager.js');
+let WatchManager = require('./WatchManager.js');
 
 class WatchDemo extends React.Component {
 
