@@ -1,7 +1,7 @@
 # react-native-watch
 react-native-watch includes a demo iOS app with React Native bindings to communicate with iOS WatchKit apps.
 
-![Screen capture](http://i.imgur.com/bgna8SA.gif)
+[![Demo](http://img.youtube.com/vi/F2xRSyX8i0o/0.jpg)](http://www.youtube.com/watch?v=F2xRSyX8i0o)
 
 ** Note: This demo does not use RN views for the UI since WKInterface components are not yet supported. But fear not, using Interface Builder to build out a Watch app UI is not too difficult to learn :) **
 
