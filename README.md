@@ -14,10 +14,10 @@ The demo project should just required a build and run in XCode. However, if you 
 
 1. Copy these files into your project where you see fit:
     These files contain the Objective C RCT module declaration for RN:
-     WatchManager.m 
-     WatchManager.h
+     `WatchManager.m`
+     `WatchManager.h`.
     This is the wrapper for native module:
-     WatchManager.js
+     `WatchManager.js`
 2.  Create a watch app (plenty of tutorials out there) or use an existing. In your Exension’s default InterfaceController.swift, you’ll have to import WatchConnectivity and implement the WCSessionDelegate. You can add the didReceiveMessage handler like below. (You can also find an example of sending messages in InterfaceController.swift).
     ```
         import WatchConnectivity
